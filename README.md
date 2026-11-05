@@ -33,4 +33,4 @@
 
 ## 문의
 
-pobydev@gmail.com
+hello@gnilab.kr
